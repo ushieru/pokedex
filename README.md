@@ -2,6 +2,8 @@
 
 Aplicación móvil construida con React Native y Expo que consume la [PokéAPI](https://pokeapi.co) para listar y explorar Pokémon, con soporte de caché local y scroll infinito.
 
+![[Video](https://github.com/ushieru/pokedex/blob/main/screen-20260708-155245.mp4)](screen-20260708-155245.mp4)
+
 ---
 
 ## Requisitos previos
